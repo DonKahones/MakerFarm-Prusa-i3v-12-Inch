@@ -2,7 +2,7 @@
 
 MakerFarm Prusa i3v (12 Inch Version)
 
-Makerfarm provided the source to their Makerfarm i3v printer (a lasercut variant of the Prusa i3 printer with v-slot linear rails instead of rods) in a closed .pwj format. I have converted it to a more open format for those of us that wish to view the file. The source is provided in .pwj, .plt and dxf formats.
+Colin at MakerFarm provided the source to the MakerFarm i3v 3D Printer (a lasercut variant of the Prusa i3 printer with v-slot linear rails instead of rods) in a closed .pwj format. I have converted it to a more open format for those of us that wish to view the file. The source is provided in .pwj, .plt and .dxf formats.
 
 If others encounter a .pwj file, it can be opened with a program called LaserGRAV: 
 
